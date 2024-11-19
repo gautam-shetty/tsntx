@@ -1,0 +1,2 @@
+class EdgeType:
+    AST = "AST"    
